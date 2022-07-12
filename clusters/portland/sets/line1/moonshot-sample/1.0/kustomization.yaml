@@ -14,15 +14,15 @@ configMapGenerator:
   files:
   - tags-configuration.yaml
 
-patches:
-- path: ./../../../../../../.defaults/portland-properties-configmap-1.0.yaml
-  target:
-    name: input-configuration
-    kind: ConfigMap
+# patches:
+# - path: ./../../../../../../.defaults/portland-properties-configmap-1.0.yaml
+#   target:
+#     name: input-configuration
+#     kind: ConfigMap
 # - patch: |-
 #     - op: replace
 #       path: /data/plant.name
 #       value: portland-dev
-  target:
-    name: input-configuration
-    kind: ConfigMap
+#   target:
+#     name: input-configuration
+#     kind: ConfigMap
