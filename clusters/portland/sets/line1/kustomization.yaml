@@ -1,4 +1,4 @@
 resources:
-- ./moonshot-sample/1.0
-- ./dummy-app/1.0
+# - ./moonshot-sample/1.0
+# - ./dummy-app/1.0
 - ./hello-nginx/1.0
