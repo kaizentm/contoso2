@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: contoso2
   annotations:
-    github.com/project-slug: kaizentm/contoso2
+    github.com/project-slug: kaizentm/contoso2    
+    backstage.io/kubernetes-id: contoso
 spec:
   type: other
   lifecycle: unknown
