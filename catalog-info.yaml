@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: kaizentm/contoso2    
     backstage.io/kubernetes-id: contoso2
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
