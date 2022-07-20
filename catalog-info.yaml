@@ -4,7 +4,7 @@ metadata:
   name: contoso2
   annotations:
     github.com/project-slug: kaizentm/contoso2    
-    backstage.io/kubernetes-id: contoso
+    backstage.io/kubernetes-id: contoso2
 spec:
   type: other
   lifecycle: unknown
